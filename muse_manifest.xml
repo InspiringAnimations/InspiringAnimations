@@ -1,0 +1,53 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="InspiringAnimations.cz" resolutions="1x,2x" timestamp="1497044579089">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="islamic.css" crc="423927473" ref="islamic"/>
+    <file name="iefonts_islamic.css" crc="3912994254" ref="islamic"/>
+    <file name="index.css" crc="4089678466" ref="index"/>
+    <file name="iefonts_index.css" crc="4238016736" ref="index"/>
+    <file name="general.css" crc="3972886377" ref="general"/>
+    <file name="iefonts_general.css" crc="4064806111" ref="general"/>
+    <file name="quranic-treasures.css" crc="49227399" ref="quranic-treasures"/>
+    <file name="iefonts_quranic-treasures.css" crc="161903435" ref="quranic-treasures"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:general:quranic-treasures:islamic"/>
+    <file name="museutils.js" crc="183364071" ref="index:general:quranic-treasures:islamic"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:general:quranic-treasures:islamic"/>
+  </folder>
+  <folder name="images">
+    <file name="mint_png21.png" crc="3825899850" seo="true" ref="index"/>
+    <file name="mint_png21_2x.png" crc="338899661" seo="true" ref="index"/>
+    <file name="untitled design (1).png" crc="3849373893" seo="true" ref="index"/>
+    <file name="untitled design (1)_2x.png" crc="3974446823" seo="true" ref="index"/>
+    <file name="untitled design (3).png" crc="492493633" seo="true" ref="index"/>
+    <file name="untitled design (3)_2x.png" crc="291081425" seo="true" ref="index"/>
+    <file name="untitled design (6).png" crc="4282253253" seo="true" ref="index"/>
+    <file name="untitled design (6)_2x.png" crc="172778168" seo="true" ref="index"/>
+    <file name="maxresdefault.jpg" crc="382287030" seo="true" ref="index:general:quranic-treasures"/>
+    <file name="maxresdefault_2x.jpg" crc="4139687136" seo="true" ref="index:general:quranic-treasures"/>
+    <file name="maxresdefault (1).jpg" crc="76492681" seo="true" ref="index:general:quranic-treasures:islamic"/>
+    <file name="maxresdefault (1)_2x.jpg" crc="127154051" seo="true" ref="index:general:quranic-treasures:islamic"/>
+    <file name="maxresdefault (2).jpg" crc="3857501828" seo="true" ref="index:general:islamic"/>
+    <file name="maxresdefault (2)_2x.jpg" crc="431604114" seo="true" ref="index:general:islamic"/>
+    <file name="maxresdefault (3).jpg" crc="3806201426" seo="true" ref="index"/>
+    <file name="maxresdefault (3)_2x.jpg" crc="3934078172" seo="true" ref="index"/>
+    <file name="untitled design (6)122x122.png" crc="4034434355" seo="true" ref="general"/>
+    <file name="untitled design (6)122x122_2x.png" crc="423947783" seo="true" ref="general"/>
+    <file name="untitled design (3)104x104.png" crc="360017892" seo="true" ref="quranic-treasures"/>
+    <file name="untitled design (3)104x104_2x.png" crc="3885451571" seo="true" ref="quranic-treasures"/>
+    <file name="u310.png" crc="274577056" ref="quranic-treasures"/>
+    <file name="u310-r.png" crc="3955676638" ref="quranic-treasures"/>
+    <file name="u310_2x.png" crc="415183858" ref="quranic-treasures"/>
+    <file name="u310-r_2x.png" crc="4089214327" ref="quranic-treasures"/>
+    <file name="untitled design (1)140x140.png" crc="250491530" seo="true" ref="islamic"/>
+    <file name="untitled design (1)140x140_2x.png" crc="343948301" seo="true" ref="islamic"/>
+    <file name="maxresdefault (5).jpg" crc="234304348" seo="true" ref="islamic"/>
+    <file name="maxresdefault (5)_2x.jpg" crc="115385055" seo="true" ref="islamic"/>
+  </folder>
+  <file name="index.html" crc="31071007" seo="true" mt="1497026941113" redirect="true"/>
+  <file name="general.html" crc="400313223" seo="true" mt="1497029006442" redirect="true"/>
+  <file name="quranic-treasures.html" crc="3899904092" seo="true" mt="1497029087048" redirect="true"/>
+  <file name="islamic.html" crc="92095151" seo="true" mt="1497044517606" redirect="true"/>
+</manifest>
